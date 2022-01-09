@@ -1,8 +1,0 @@
-notesServer\dao\TestAccountDao.class
-notesServer\service\TestSectionService.class
-notesServer\dao\TestSessionDao.class
-notesServer\controller\TestAccountController.class
-notesServer\controller\TestSessionController.class
-notesServer\dao\TestSectionDao.class
-notesServer\controller\TestSectionController.class
-notesServer\service\TestAccountService.class
